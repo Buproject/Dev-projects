@@ -20,5 +20,4 @@ Mail: info@buproject.net
 Instagram: https://www.instagram.com/bu_project
 
 Youtube: 
-https://www.youtube.com/channel/UCFHwxsaf93YRvWf7nq
-T480A
+https://www.youtube.com/watch?v=mDg9-nslmVo
