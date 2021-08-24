@@ -1,6 +1,7 @@
 Ecommerce
 ------------------------------------------------------------------------------------------------------------
-A new open source Flutter project\n
+A new open source Flutter project
+
 Getting Started
 ------------------------------------------------------------------------------------------------------------
 This is an average Flutter app. You can find easy to use 
@@ -13,8 +14,11 @@ methods in this app.
 Contact us & see coding in Youtube
 ------------------------------------------------------------------------------------------------------------------------------------
 Web: https://buproject.net/
+
 Mail: info@buproject.net
+
 Instagram: https://www.instagram.com/bu_project
+
 Youtube: 
 https://www.youtube.com/channel/UCFHwxsaf93YRvWf7nq
 T480A
