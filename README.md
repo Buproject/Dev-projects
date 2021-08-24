@@ -1,6 +1,6 @@
 Ecommerce
 ------------------------------------------------------------------------------------------------------------
-A new open source Flutter project
+A new open source Flutter project\n
 Getting Started
 ------------------------------------------------------------------------------------------------------------
 This is an average Flutter app. You can find easy to use 
